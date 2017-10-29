@@ -1,4 +1,4 @@
-# neural-poet
+# neural-poet（自动写诗机）
 neural-poet is a numpy+tensorflow project for Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN)  that generate poetry.
 
 
